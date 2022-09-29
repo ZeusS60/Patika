@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: rgba(226, 173, 133, 0.871);
+}
+strong{
+    padding: 5px;
+    
+    
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style-position: inside;
+}
+img{
+    width: 425px;
+    height: auto;
+}
